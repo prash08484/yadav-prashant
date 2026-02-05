@@ -2,8 +2,7 @@ import { Routes, Route } from 'react-router-dom';
 import { Helmet } from 'react-helmet-async';
 import { Navbar } from './components/layout/nav';
 import Footer from './components/layout/footer';
-import { ThemeProvider } from './components/layout/theme-switch';
-import { Sherrii } from './components/layout/sherrii';
+import { ThemeProvider } from './components/layout/theme-switch'; 
 import { Preloader } from './components/ui/Preloader';
 import { useImagePreloader } from './hooks/useImagePreloader';
 import { metaData } from './config/config';
@@ -56,8 +55,7 @@ function App() {
             <Route path="/contact" element={<Contact />} />
             <Route path="*" element={<NotFound />} />
           </Routes>
-          <Footer />
-          <Sherrii />
+          <Footer /> 
         </main>
       </div>
     </ThemeProvider>
