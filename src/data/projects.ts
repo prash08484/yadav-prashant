@@ -7,7 +7,7 @@ export const projects: Project[] = [
     date: "2025-07-01",
     category: "web",
     image: "work/geo-spatial.png",
-    link: "https://github.com/prash08484/supplier-risk-detector",
+    link: "https://github.com/prash08484/supplier-risk-detector2",
     tags: ["Web"],
   },
   {
