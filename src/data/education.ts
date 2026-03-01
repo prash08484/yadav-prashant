@@ -9,7 +9,7 @@ export const educationData: Company[] = [
         title: "Bachelor of Technology, Computer Science and Engineering",
         duration: "Expected 2027",
         content: [
-          "CGPA: 8.44 (till 4th Semester)",
+          "CGPA: 8.44 ",
           "Roll No.: 2306112",
           "Strong foundation in Data Structures, Algorithms, DBMS, and Computer Networking",
           "Active participant in coding competitions and hackathons",
