@@ -3,7 +3,7 @@ import { PersonalPost } from '../../types';
 export const booksPosts: PersonalPost[] = [
   {
     id: 'book-1',
-    caption: 'okay so this book made me quit my job and book a one-way ticket to spain (jk but the urge was REAL)',
+    caption: 'One of finest book it express that about Personal legend',
     type: 'books',
     tags: ['philosophy', 'inspiration'],
     date: '2024-12-15',
